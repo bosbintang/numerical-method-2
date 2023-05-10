@@ -1,1 +1,1 @@
-# numerical-method-2
+# gauss siedel and damped jacobi
